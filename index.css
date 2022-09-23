@@ -35,6 +35,7 @@ body {
   list-style-type: none;
   margin: 0;
   padding-top: 7px;
+  padding-right: 5px;
   overflow: hidden;
   background-color: rgb(8, 65, 78);
   display: flex;
