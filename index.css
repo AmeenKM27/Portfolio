@@ -1,0 +1,174 @@
+body {
+  background-color: rgb(217, 217, 186);
+  background-image: url(lm.jpg);
+  background-attachment: fixed;
+  padding: 40px;
+}
+
+.innerbg {
+  background-color: rgb(250, 250, 245);
+  height: 525px;
+}
+
+.dataviz {
+  color: rgb(250, 250, 250);
+  font-family: 'century gothic';
+  background-color: rgb(8, 65, 78);
+  padding-left: 40px;
+}
+
+.dvlink {
+  display: block;
+  color: rgb(199, 198, 198);
+  text-align: center;
+  text-decoration: none;
+
+}
+
+.men {
+  background-color: rgb(8, 65, 78);
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu {
+  list-style-type: none;
+  margin: 0;
+  padding-top: 7px;
+  overflow: hidden;
+  background-color: rgb(8, 65, 78);
+  display: flex;
+  justify-content: end;
+  font-family: 'consolas';
+}
+
+.menuel {
+  float: left;
+}
+
+.menulink {
+  display: block;
+  color: rgb(199, 198, 198);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.menucrnt {
+  display: block;
+  color: rgba(199, 198, 198, 0.34);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+
+}
+
+.menulink:hover {
+  background-color: rgb(11, 11, 11);
+}
+
+.intro {
+  color: rgb(8, 65, 78);
+  width: 30%;
+  font-family: 'Lato', sans-serif;
+  margin-top: 40px;
+  margin-left: 20px;
+  font-weight: bold;
+  font-size: large;
+  padding: 10px;
+
+}
+
+.ameen {
+  color: rgb(62, 16, 16);
+  width: 30%;
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+  font-size: large;
+  padding: 10px;
+}
+
+.ip {
+  display: flex;
+  justify-content: center;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  margin-top: 35px;
+}
+
+.pic {
+  margin-top: 15px;
+  margin-right: 0px;
+  margin-bottom: 28px;
+}
+
+.pics {
+  height: 275px;
+}
+
+.icons {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ico {
+  width: 40px;
+  padding-left: 18px;
+  padding-right: 18px;
+  padding-top: none;
+  padding-bottom: 18px;
+}
+
+.ico:hover {
+  background-color: rgb(155, 155, 155);
+}
+
+.listss {
+  list-style-type: none;
+  font-family: 'Lato', sans-serif;
+  text-decoration: none;
+  color: rgb(8, 65, 78);
+  font-style: italic;
+}
+
+.listd {
+  margin-left: 20px;
+  margin-top: 10px;
+  padding-top: 7px;
+}
+
+h3 {
+  font-family: 'Lato', sans-serif;
+  color: rgb(8, 65, 78);
+}
+
+.analy {
+  display: flex;
+  justify-content: space-between;
+  height: 45%;
+}
+
+.pic2 {
+  margin-top: 25px;
+  margin-right: 0px;
+  margin-bottom: 28px;
+}
+h2{
+  font-family: 'Lato', sans-serif;
+  color: rgb(8, 65, 78);
+}
+h4{
+  font-family: 'Lato', sans-serif;
+  color: rgb(8, 65, 78);
+  font-size: medium;
+}
+.contdet{
+  color: rgb(5, 5, 5);
+  font-family: 'Franklin Gothic';
+  font-weight: bold;
+  font-size: small;
+  padding: none;
+}
