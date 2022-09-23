@@ -7,7 +7,8 @@ body {
 
 .innerbg {
   background-color: rgb(250, 250, 245);
-  height: 525px;
+  height: 75%;
+  width:75%;
 }
 
 .dataviz {
